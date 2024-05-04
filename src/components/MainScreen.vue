@@ -1,7 +1,7 @@
 <template>
   <div class="screen">
     <h1>POKEMON MEMORY</h1>
-    <h3>select mode to start game</h3>
+    <h2>select mode to start game</h2>
     <div class="modes">
       <button @click="onStart(16)">
         <span>4x4</span>
